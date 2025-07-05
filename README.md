@@ -13,15 +13,3 @@ himadrigoswami191118@gmail.com
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=himadri-g&show_icons=true&theme=radical" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=himadri-g&theme=radical" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himadri-g&layout=compact&theme=radical" alt="Top Languages" /> </p>
 🚀 Fun Animated Badges
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+together!" alt="Welcome Animation" /> </p>
-Tips for More Animation:
-
-Use readme-typing-svg for animated typing effects.
-
-Use skillicons.dev for animated skill icons.
-
-You can embed more SVG animations or shields as needed.
-
-Note:
-GitHub markdown does not support JavaScript or true CSS animations, but SVGs and GIFs provide smooth, visually appealing effects that work reliably on your profile.
-
-Feel free to copy, customize, and use this improved README for your GitHub profile!
