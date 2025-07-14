@@ -6,7 +6,7 @@ Machine Learning, Deep Learning & Agentic AI.
 himadrigoswami191118@gmail.com
 
 🌐 Connect with Me
-<p align="center"> </a> <a href="https://linkedin.com/in/himadrigoswami" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://fb.com/himadrigoswami" target="blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a> <a href="https://instagram.com/_himadrigoswami" target="blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
+<p align="center"> </a> <a href="https://www.linkedin.com/in/himadri-goswami-343896275" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.facebook.com/him.adry.54" target="blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a> <a href="https://www.instagram.com/_himadrigoswami/" target="blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
 🛠️ Languages and Tools
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,mongodb,mysql,postgres,git,figma,linux,blender,django,php,postman,tensorflow,pytorch,scikit-learn,seaborn" alt="Skills" /> </p>
 📊 GitHub Stats
