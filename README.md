@@ -1,6 +1,6 @@
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" />, I'm Himadri Goswami !</h1> <h3 align="center">  <a href="https://twitter.com/himadrigoswami" target="_blank"> <img src="https://img.shields.io/twitter/follow/himadrigoswami?logo=twitter&style=for-the-badge" alt="Twitter Follow" /> </a> </p>
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" />, I'm Himadri Goswami !</h1> <h3 align="center">  <a href="https://x.com/Himadry_" target="_blank"> <img src="https://img.shields.io/twitter/follow/himadrigoswami?logo=twitter&style=for-the-badge" alt="Twitter Follow" /> </a> </p>
 🌱 Currently Learning
-Machine Learning, Agentic AI, LangChain & Vector Databases, TensorFlow.
+Machine Learning, Deep Learning & Agentic AI.
 
 📫 How to Reach Me
 himadrigoswami191118@gmail.com
